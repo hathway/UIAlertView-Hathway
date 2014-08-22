@@ -7,6 +7,7 @@
 //
 
 #import "UIAlertView+Hathway.h"
+#import <objc/runtime.h>
 
 static char kTitleBlockKey;
 static char kIndexBlockKey;
